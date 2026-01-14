@@ -1,0 +1,16 @@
+{
+  "name": "new_beckend",
+  "version": "1.0.0",
+  "description": " The first beckend project",
+  "keywords": [
+    "backend",
+    "tech-savvy"
+  ],
+  "license": "ISC",
+  "author": "Arvind Chauhan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
